@@ -6,3 +6,5 @@ e.sh -> instala angular e typescript num diretório chamado ESS no Desktop. Reco
 
 (O script coloca os caminhos de angular e typescript instalados na variável PATH através da edição do arquivo ~/.bashrc)
 
+## como rodar
+Abra o terminal e digite `source e.sh` e o que foi descrito acontecerá.
