@@ -42,4 +42,4 @@ cat ~/path3 >> ~/.bashrc
 source ~/.bashrc
 
 rm ~/path1 ~/path2 ~/path3
-
+cd ~/Desktop
