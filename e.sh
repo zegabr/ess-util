@@ -1,9 +1,5 @@
 #e de ESS
 
-#cat bashreserva > ~/.bashrc #reseta bashrc do linux caso rodado diretamente da pasta ess-util
-#cat ess-util/bashreserva > ~/.bashrc #reseta bashrc do linux caso rodado do diretorio no qual ess-util foi clonado
-#source ~/.bashrc
-
 rm -rf ~/node_modules/ #remove possiveis instalacoes antigas na root
 
 cd ~/Desktop
